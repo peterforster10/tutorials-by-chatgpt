@@ -1,4 +1,4 @@
-# Funktionale Programmierung und Streams in Java
+# Funktionale Programmierung und Streams in Java by ChatGPT
 
 ## Prompt
 
