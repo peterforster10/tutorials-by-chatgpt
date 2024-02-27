@@ -58,7 +58,7 @@ Um ein umfassendes Tutorial über Interfaces, Records und versiegelte Klassen in
 
 Diese Gliederung bietet eine strukturierte Herangehensweise, um die Konzepte von Interfaces, Records und versiegelten Klassen in Java zu verstehen und anzuwenden. Es deckt sowohl die theoretischen Grundlagen als auch praktische Anwendungsfälle ab, um den Lesern ein tiefes Verständnis und die Fähigkeit zur Anwendung dieser Konzepte in ihren eigenen Java-Projekten zu vermitteln.
 
-### 1. Einführung
+## 1. Einführung
 
 Java ist eine weit verbreitete Programmiersprache, die seit ihrer Einführung in den frühen 90er Jahren ständig weiterentwickelt wurde, um den Anforderungen moderner Softwareentwicklung gerecht zu werden. Dieses Tutorial zielt darauf ab, drei Schlüsselkonzepte in Java zu beleuchten: Interfaces, Records und versiegelte Klassen. Jedes dieser Konzepte spielt eine entscheidende Rolle bei der Gestaltung robuster, flexibler und wartbarer Java-Anwendungen.
 
@@ -98,7 +98,7 @@ Durch die Einführung dieser Konzepte in Ihre Java-Projekte können Sie die Lesb
 
 
 
-### 2. Grundlagen von Interfaces in Java
+## 2. Grundlagen von Interfaces in Java
 
 Interfaces in Java sind ein fundamentales Konzept, das eine abstrakte Schicht zur Definition von Verträgen zwischen verschiedenen Teilen eines Programms bereitstellt. Sie ermöglichen es, eine formale Vereinbarung über die Methoden zu treffen, die eine Klasse implementieren muss, ohne die Implementierungsdetails vorzugeben. In diesem Abschnitt werden wir die Grundlagen von Interfaces, ihre Erstellung, Implementierung sowie verschiedene Arten von Methoden in Interfaces erkunden.
 
@@ -177,7 +177,7 @@ Interfaces in Java bieten eine robuste Grundlage für die Gestaltung flexibler u
 
 
 
-### 3. Fortgeschrittene Themen zu Interfaces
+## 3. Fortgeschrittene Themen zu Interfaces
 
 Nachdem wir die Grundlagen von Interfaces in Java behandelt haben, wenden wir uns nun einigen fortgeschrittenen Konzepten zu. Diese Konzepte erweitern unsere Möglichkeiten, Interfaces in Java effektiv zu nutzen, und umfassen Funktionsinterfaces, Mehrfachvererbung durch Interfaces und Marker-Interfaces.
 
@@ -253,7 +253,7 @@ class MeineDaten implements Serialisierbar {
 Diese fortgeschrittenen Konzepte zu Interfaces in Java eröffnen vielfältige Möglichkeiten, wie Interfaces zur Strukturierung von Code und zur Implementierung von funktionalen sowie objektorientierten Designmustern genutzt werden können. Durch den geschickten Einsatz von Funktionsinterfaces, Mehrfachvererbung durch Interfaces und Marker-Interfaces können Entwickler effiziente, flexible und klar verständliche Programme erstellen.
 
 
-### 4. Einführung in Records (ab Java 14)
+## 4. Einführung in Records (ab Java 14)
 
 Mit Java 14 führte Oracle eine neue Art von Datentyp ein, die Record-Klasse, welche die Java-Programmierung in vielerlei Hinsicht vereinfacht und verbessert. Records bieten eine schnelle, einfache und sichere Methode zur Erstellung von unveränderlichen Daten-Trägerobjekten. In diesem Abschnitt werden wir uns näher mit dem Konzept der Records befassen, ihre Vorteile und Einschränkungen betrachten und ihre Verwendung mit Beispielen demonstrieren.
 
@@ -303,7 +303,7 @@ Records in Java stellen eine wichtige Erweiterung dar, die Entwicklern hilft, Da
 
 
 
-### 5. Versiegelte Klassen (ab Java 15)
+## 5. Versiegelte Klassen (ab Java 15)
 
 Mit der Einführung von Java 15 wurden versiegelte Klassen (sealed classes) als Preview-Feature eingeführt, um Entwicklern mehr Kontrolle über die Vererbungshierarchie zu geben. Versiegelte Klassen erlauben es, explizit zu definieren, welche Klassen oder Interfaces von einer bestimmten Klasse erben oder ein Interface implementieren dürfen. Dieses Konzept führt zu einer stärkeren Einschränkung und Kontrolle der Vererbung und bietet somit eine erhöhte Sicherheit und Vorhersehbarkeit im Design von Softwarekomponenten.
 
@@ -350,7 +350,7 @@ Versiegelte Klassen und Interfaces bieten in Java eine leistungsstarke Möglichk
 
 
 
-### 6. Praktische Anwendungsfälle
+## 6. Praktische Anwendungsfälle
 
 Die Konzepte von Interfaces, Records und versiegelten Klassen in Java finden in vielen Bereichen der Softwareentwicklung praktische Anwendung. Sie können die Entwicklung von Anwendungen vereinfachen, die Lesbarkeit und Wartbarkeit des Codes verbessern und zur Erstellung sicherer und robuster Software beitragen. In diesem Abschnitt werden einige konkrete Anwendungsfälle für diese Features vorgestellt.
 
@@ -441,7 +441,7 @@ Interfaces, Records und versiegelte Klassen bieten Java-Entwicklern leistungsfä
 
 
 
-### 7. Best Practices und häufige Fallstricke
+## 7. Best Practices und häufige Fallstricke
 
 Die effektive Nutzung von Interfaces, Records und versiegelten Klassen in Java kann die Qualität und Wartbarkeit des Codes erheblich verbessern. Doch wie bei jeder leistungsfähigen Technologie gibt es Best Practices, die befolgt werden sollten, sowie häufige Fallstricke, die es zu vermeiden gilt. In diesem Abschnitt werden einige dieser Punkte beleuchtet.
 
@@ -501,7 +501,7 @@ Die richtige Anwendung von Interfaces, Records und versiegelten Klassen kann die
 
 
 
-### 8. Zusammenfassung und weiterführende Ressourcen
+## 8. Zusammenfassung und weiterführende Ressourcen
 
 In diesem Tutorial haben wir die Grundlagen und fortgeschrittenen Konzepte von Interfaces, Records und versiegelten Klassen in Java erkundet. Diese Features tragen erheblich zur Stärkung der Typsicherheit, Datenmodellierung und Architekturflexibilität in Java-Anwendungen bei.
 

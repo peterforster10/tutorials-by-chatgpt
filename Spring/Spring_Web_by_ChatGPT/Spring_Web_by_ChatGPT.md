@@ -2,7 +2,7 @@
 
 ## Prompt
 
-Ich möchte Spring Web und Spring Security rür Restservices lernen. Ich kann Java. Erstelle mir eine Gliederung für einen umfassendes Tutorial.
+Ich möchte Spring Web und Spring Security für Restservices lernen. Ich kann Java. Erstelle mir eine Gliederung für einen umfassendes Tutorial.
 
 Verfasse den Abschnitt "1. Einführung" mit Unterüberschriften in mind. 300 Wörtern  (auch gerne mit Codebeispielen).
 
@@ -69,7 +69,7 @@ Diese Gliederung deckt die grundlegenden und fortgeschrittenen Konzepte ab, die 
 
 
 
-### 1. Einführung
+## 1. Einführung
 
 #### Überblick über Spring Framework und seine Bedeutung
 
@@ -747,9 +747,7 @@ public class JwtAuthenticationFilter extends GenericFilterBean {
 }
 ```
 
-Dieser Filter
-
- müsste dann in der Sicherheitskonfiguration registriert werden, zusammen mit den notwendigen Einstellungen für die Verarbeitung von JWTs.
+Dieser Filter müsste dann in der Sicherheitskonfiguration registriert werden, zusammen mit den notwendigen Einstellungen für die Verarbeitung von JWTs.
 
 Die Implementierung von JWT in Spring Security ermöglicht es Entwicklern, hochsichere, zustandslose Authentifizierungssysteme zu erstellen, die gut für moderne Webanwendungen und Microservice-Architekturen geeignet sind. Es erfordert jedoch ein tiefes Verständnis von Sicherheitsprinzipien und sorgfältige Implementierung, um Schwachstellen zu vermeiden.
 
@@ -834,7 +832,7 @@ Durch die Integration dieser Praktiken in Ihre Spring Web- und Spring Security-P
 
 
 
-### 6. Abschlussprojekt
+## 6. Abschlussprojekt
 
 Das Ziel dieses Abschlussprojekts ist es, das Gelernte aus den vorherigen Abschnitten anzuwenden, um eine umfassende Spring Boot-Anwendung zu entwickeln. Die Anwendung wird ein einfaches Blog-System sein, das Benutzern ermöglicht, Beiträge zu erstellen, zu lesen, zu aktualisieren und zu löschen (CRUD-Operationen). Außerdem wird die Anwendung Sicherheitsmerkmale wie Benutzerauthentifizierung und Autorisierung implementieren.
 
