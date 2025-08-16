@@ -1959,9 +1959,6 @@ Die Ironie der Partnersuche ist, dass Sie oft dann erfolgreich sind, wenn Sie am
 
 ### 13. Eine gesunde Beziehung aufbauen
 
-
-### 13. Eine gesunde Beziehung aufbauen
-
 #### Kommunikationsregeln etablieren
 
 Gute Kommunikation ist das Fundament jeder erfolgreichen Beziehung. Sie entwickelt sich nicht automatisch, sondern muss bewusst gepflegt und kontinuierlich verbessert werden.
